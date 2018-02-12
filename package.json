@@ -1,0 +1,21 @@
+{
+  "name": "sketch-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "fs-then": "^0.2.0",
+    "merge-images": "^1.0.7",
+    "mz": "^2.7.0",
+    "ws": "^4.0.0"
+  }
+}
